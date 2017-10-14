@@ -1,0 +1,25 @@
+body{
+	background-image:url(bg2.jpg);
+
+}
+
+div{
+	
+	border:7px solid black;
+	color:#808080;
+	margin-right:500px;
+}
+
+#cg{
+	border:10px solid black;
+	color:#808080;
+	font-size:120px;
+}
+
+a{	
+	
+	color:#808080;
+	
+	font-size:48px;
+
+}
